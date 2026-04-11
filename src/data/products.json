@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Torta de Chocolate Clásica",
+    "category": "Clásicas",
+    "price": 85,
+    "description": "Deliciosa torta de chocolate con cobertura de ganache y capas de bizcocho húmedo.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Torta de Vainilla con Fresas",
+    "category": "Clásicas",
+    "price": 90,
+    "description": "Esponjoso bizcocho de vainilla relleno de crema chantilly y fresas naturales.",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Torta Tres Leches",
+    "category": "Clásicas",
+    "price": 80,
+    "description": "Clásica torta tres leches empapada en su mezcla característica, con crema batida.",
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Torta Cuadrada de Chocolate Blanco",
+    "category": "Cuadradas",
+    "price": 120,
+    "description": "Torta cuadrada cubierta de chocolate blanco con decoración minimalista.",
+    "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Torta Cuadrada Red Velvet",
+    "category": "Cuadradas",
+    "price": 130,
+    "description": "Impactante torta red velvet en formato cuadrado con frosting de queso crema.",
+    "image": "https://images.unsplash.com/photo-1562777717-dc6984f65a63?w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Torta Cuadrada de Maracuyá",
+    "category": "Cuadradas",
+    "price": 115,
+    "description": "Refrescante torta de maracuyá con mousse tropical y base de galleta.",
+    "image": "https://images.unsplash.com/photo-1587668178277-295251f900ce?w=600&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Torta Rectangular de Café",
+    "category": "Rectangulares",
+    "price": 140,
+    "description": "Torta rectangular de café espresso con crema de mantequilla y nueces caramelizadas.",
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc7b?w=600&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Torta Rectangular de Limón",
+    "category": "Rectangulares",
+    "price": 135,
+    "description": "Torta rectangular de limón con glaseado cítrico y decoración de ralladura.",
+    "image": "https://images.unsplash.com/photo-1568051243858-533a607809a5?w=600&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Torta Rectangular Selva Negra",
+    "category": "Rectangulares",
+    "price": 155,
+    "description": "Selva negra en formato rectangular con cerezas, crema y virutas de chocolate.",
+    "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=600&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Torta Corazón de Fresa",
+    "category": "Corazón",
+    "price": 160,
+    "description": "Romántica torta en forma de corazón con relleno de mousse de fresa y cobertura rosada.",
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?w=600&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Torta Corazón Terciopelo Rojo",
+    "category": "Corazón",
+    "price": 170,
+    "description": "Red velvet en forma de corazón, ideal para celebraciones especiales y aniversarios.",
+    "image": "https://images.unsplash.com/photo-1553482215-a7f87538d6e3?w=600&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Torta Corazón de Chocolate y Frambuesa",
+    "category": "Corazón",
+    "price": 175,
+    "description": "Intenso chocolate amargo con relleno de frambuesa fresca en forma de corazón.",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Torta Sin Azúcar de Vainilla",
+    "category": "Sin Azúcar",
+    "price": 95,
+    "description": "Torta de vainilla endulzada con stevia, ideal para personas con diabetes o dietas bajas en azúcar.",
+    "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?w=600&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Torta Sin Azúcar de Zanahoria",
+    "category": "Sin Azúcar",
+    "price": 90,
+    "description": "Torta de zanahoria con nueces, sin azúcar añadida y cobertura de queso crema light.",
+    "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=600&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Torta Sin Azúcar de Chocolate",
+    "category": "Sin Azúcar",
+    "price": 100,
+    "description": "Torta de chocolate amargo sin azúcar, con cobertura de cacao puro y almendras.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&q=80"
+  }
+]
