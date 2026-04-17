@@ -5,7 +5,7 @@
     "category": "Clásicas",
     "price": 85,
     "description": "Deliciosa torta de chocolate con cobertura de ganache y capas de bizcocho húmedo.",
-    "image": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?q=80&w=1024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image":" https://i.pinimg.com/736x/9b/5d/d5/9b5dd522591f7561f33106c2ca2a14bb.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Clásicas",
     "price": 90,
     "description": "Esponjoso bizcocho de vainilla relleno de crema chantilly y fresas naturales.",
-    "image": "https://images.unsplash.com/photo-1694169629167-7253d762e289?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image":"https://i.pinimg.com/1200x/b1/ef/bf/b1efbf50a3157c7d071184ecfbe10024.jpg"
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
     "price": 80,
     "featured": true,
     "description": "Clásica torta tres leches empapada en su mezcla característica, con crema batida.",
-    "image": "https://images.unsplash.com/photo-1773086613382-5ff2798782c7?q=80&w=1092&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/31/4b/91/314b91420a9a38a3685aa42d7cc89176.jpg"
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@
     "category": "Cuadradas",
     "price": 120,
     "description": "Torta cuadrada cubierta de chocolate blanco con decoración minimalista.",
-    "image": "https://plus.unsplash.com/premium_photo-1679047583484-d53908b7c7b3?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/cb/60/25/cb602564a5671687f59c5b358347bbeb.jpg"
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@
     "category": "Cuadradas",
     "price": 130,
     "description": "Impactante torta red velvet en formato cuadrado con frosting de queso crema.",
-    "image": "https://images.unsplash.com/photo-1695904255931-78b11e1cb049?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/a8/1a/0e/a81a0e829dbe0a5b397e5b714f82a1d6.jpg"
   },
   {
     "id": 6,
@@ -46,7 +46,7 @@
     "category": "Cuadradas",
     "price": 115,
     "description": "Refrescante torta de maracuyá con mousse tropical y base de galleta.",
-    "image": "https://images.unsplash.com/photo-1635716285312-06003a529312?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/4c/67/37/4c6737856efaeda991ef572ca0183667.jpg"
   },
   {
     "id": 7,
@@ -54,7 +54,7 @@
     "category": "Clásicas",
     "price": 140,
     "description": "Torta rectangular de café espresso con crema de mantequilla y nueces caramelizadas.",
-    "image": "https://plus.unsplash.com/premium_photo-1715015440855-48e019b6faa1?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/9f/7d/fd/9f7dfdb80dae26b8b144a12ae776d01d.jpg"
   },
   {
     "id": 8,
@@ -62,7 +62,7 @@
     "category": "Rectangulares",
     "price": 135,
     "description": "Torta rectangular de limón con glaseado cítrico y decoración de ralladura.",
-    "image": "https://images.unsplash.com/photo-1774119729324-a43894d5649c?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/d1/7f/68/d17f68566a145bcecc70f56c8a0a8738.jpg"
   },
   {
     "id": 9,
@@ -70,7 +70,7 @@
     "category": "Rectangulares",
     "price": 155,
     "description": "Selva negra en formato rectangular con cerezas, crema y virutas de chocolate.",
-    "image": "https://images.unsplash.com/photo-1620492129802-2955e00f161e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/72/83/1a/72831ab155a10df596e2017c13c47f83.jpg"
   },
   {
     "id": 10,
@@ -79,7 +79,7 @@
     "price": 160,
     "featured": true,
     "description": "Romántica torta en forma de corazón con relleno de mousse de fresa y cobertura rosada.",
-    "image": "https://images.unsplash.com/photo-1664589076780-295c86106e93?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/16/78/76/16787666b8d7f6ddd8ebb5d41b7be39b.jpg"
   },
   {
     "id": 11,
@@ -87,7 +87,7 @@
     "category": "Corazón",
     "price": 170,
     "description": "Red velvet en forma de corazón, ideal para celebraciones especiales y aniversarios.",
-    "image": "https://images.unsplash.com/photo-1721312097763-912b7ea1100a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/63/10/03/6310038760644094c7cf0a926196f2dc.jpg"
   },
   {
     "id": 12,
@@ -95,7 +95,7 @@
     "category": "Corazón",
     "price": 175,
     "description": "Intenso chocolate amargo con relleno de frambuesa fresca en forma de corazón.",
-    "image": "https://images.unsplash.com/photo-1664032658404-b52d57d76824?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/9d/3a/20/9d3a20340d0097d4971ad397cbfb08e5.jpg"
   },
   {
     "id": 13,
@@ -104,7 +104,7 @@
     "price": 85,
     "featured": true,
     "description": "Torta de vainilla endulzada con stevia, ideal para personas con diabetes o dietas bajas en azúcar.",
-    "image": "https://plus.unsplash.com/premium_photo-1663839331055-d0c9bcb2929f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/ab/ce/7c/abce7cd7880f30295a8a2b17a91dbc55.jpg"
   },
   {
     "id": 14,
@@ -113,7 +113,7 @@
     "price": 90,
     "featured": true,
     "description": "Torta de zanahoria con nueces, sin azúcar añadida y cobertura de queso crema light.",
-    "image": "https://images.unsplash.com/photo-1602095459485-3dc39c9b79f2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/1200x/27/a9/b5/27a9b5a7acb8b7cf3db87e957f19f356.jpg"
   },
   {
     "id": 15,
@@ -121,6 +121,6 @@
     "category": "Sin Azúcar",
     "price": 100,
     "description": "Torta de chocolate amargo sin azúcar, con cobertura de cacao puro y almendras.",
-    "image": "https://images.unsplash.com/photo-1709195902163-7eee13e78970?q=80&w=1046&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://i.pinimg.com/736x/3e/60/b7/3e60b7aa014aadef940aeee8b1c4c95f.jpg"
   }
 ]
